@@ -1,0 +1,59 @@
+# Id ; Authors ; year ; N ; Physics ; Method ; Reference
+1 ; Aarseth ; 1966 ; 100 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1966IAUS...25..141A/abstract
+2 ; Peebles ; 1970 ; 300 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1970AJ.....75...13P/abstract
+3 ; Press & Schechter ; 1974 ; 1000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1974ApJ...187..425P/abstract
+4 ; Miyoshi & Kihara ; 1975 ; 400 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1975PASJ...27..333M/abstract
+5 ; White ; 1976 ; 700 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1976MNRAS.177..717W/abstract
+6 ; Aarseth, Gott & Turner ; 1979 ; 4000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1979ApJ...228..664A/abstract
+7 ; Terlevich ; 1980 ; 1000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1980IAUS...85..165T/abstract
+8 ; Efstathiou & Eastwood ; 1981 ; 20000 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1981MNRAS.194..503E/abstract
+9 ; White, Frenk & Davis ; 1983 ; 32768 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1983ApJ...274L...1W/abstract
+10 ; Davis, Efstathiou, Frenk &  White ; 1985 ; 32768 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1985ApJ...292..371D/abstract
+11 ; Quinn, Salmon & Zurek ; 1986 ; 7000 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1986Natur.322..329Q/abstract
+12 ; Inagaki ; 1986 ; 3000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1986PASJ...38..853I/abstract
+13 ; White, Frenk, Davis & Efstathiou ; 1987 ; 216000 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1987ApJ...313..505W/abstract
+14 ; Carlberg & Couchman ; 1989 ; 524288 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1989ApJ...340...47C/abstract
+15 ; Dubinski & Carlberg ; 1991 ; 300000 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1991ApJ...378..496D/abstract
+16 ; Suto & Suginohara ; 1991 ; 2097152 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/1991ApJ...370L..15S/abstract
+17 ; Warren, Quinn, Salmon & Zurek ; 1992 ; 1000000 ; Gravity ; Tree ; https://ui.adsabs.harvard.edu/abs/1992ApJ...399..405W/abstract
+18 ; Couchman & Carlberg ; 1992 ; 2097152 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1992ApJ...389..453C/abstract
+19 ; Aarseth & Heggie ; 1993 ; 6000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1993ASPC...48..701A/abstract
+20 ; Gelb & Bertschinger ; 1994 ; 2985984 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1994ApJ...436..467G/abstract
+21 ; Zurek, Quinn, Salmon & Warren ; 1994 ; 17154598 ; Gravity ; Tree ; https://ui.adsabs.harvard.edu/abs/1994ApJ...431..559Z/abstract
+22 ; Spurzem & Aarseth ; 1996 ; 10000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1996MNRAS.282...19S/abstract
+23 ; Makino ; 1996 ; 32768 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/1996ApJ...471..796M/abstract
+24 ; Jenkins et al. ; 1998 ; 16777216 ; Gravity ; P3M ; https://ui.adsabs.harvard.edu/abs/1998ApJ...499...20J/abstract
+25 ; Governato et al. ; 1999 ; 47000000 ; Gravity ; Tree ; https://ui.adsabs.harvard.edu/abs/1999MNRAS.307..949G/abstract
+26 ; Colberg et al. ; 2000 ; 1000000000 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..209C/abstract
+27 ; Bode, Bahcall, Ford & Ostriker ; 2001 ; 134217728 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2001ApJ...551...15B/abstract
+28 ; Baumgardt & Makino ; 2003 ; 131028 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2003MNRAS.340..227B/abstract
+29 ; Wambsganss, Bode & Ostriker ; 2004 ; 1073741824 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2004ApJ...606L..93W/abstract
+30 ; Portegies Zwart et al. ; 2004 ; 140000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2004Natur.428..724P/abstract
+31 ; Springel et al. (Millenium) ; 2005 ; 10077696000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2005Natur.435..629S/abstract
+32 ; Ocvirk, Pichon & Teyssier (Horizon-MareNostrum) ; 2008 ; 1073741824 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2008MNRAS.390.1326O/abstract
+33 ; Kim, Park, Gott & Dubinski (Horizon Run 1) ; 2008 ; 69934528000 ; Gravity ; AMR ; https://ui.adsabs.harvard.edu/abs/2009ApJ...701.1547K/abstract
+34 ; Teyssier et al. (Horizon-4Pi) ; 2009 ; 68719476736 ; Gravity ; AMR ; https://ui.adsabs.harvard.edu/abs/2009A%26A...497..335T/abstract
+35 ; Angulo, Lacey, Baugh & Frenk ; 2009 ; 10077696000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..983A/abstract
+36 ; Hurley & Mackey ; 2010 ; 100000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2010MNRAS.408.2353H/abstract
+37 ; Kim, Park, Rossi, Lee & Gott (Horizon Runs 2 & 3) ; 2011 ; 374805361000 ; Gravity ; AMR ; https://ui.adsabs.harvard.edu/abs/2011JKAS...44..217K/abstract
+38 ; Alimi et al. (DEUS-FUR) ; 2012 ; 549755813888 ; Gravity ; AMR ; https://ui.adsabs.harvard.edu/abs/2012arXiv1206.2838A/abstract
+39 ; Ishiyama, Nitadori & Makino ; 2012 ; 1073741824000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2012arXiv1211.4406I/abstract
+40 ; Angulo et al. (Millenium-XXL) ; 2012 ; 303464448000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2012MNRAS.426.2046A/abstract
+41 ; Warren ; 2013 ; 68719476736 ; Gravity ; Tree ; https://ui.adsabs.harvard.edu/abs/2013arXiv1310.4502W/abstract
+42 ; Skillman et al. (Dark Sky) ; 2014 ; 1073741824000 ; Gravity ; Tree ; https://ui.adsabs.harvard.edu/abs/2014arXiv1407.2600S/abstract
+43 ; Schaye et al. (EAGLE) ; 2014 ; 3402072064 ; Hydro ; TreePM ; https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..521S/abstract
+44 ; Vogelsberger et al. (Illustris) ; 2014 ; 6028568000 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2014Natur.509..177V/abstract
+45 ; Heggie ; 2014 ; 484710 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.3435H/abstract
+46 ; Ishiyama et al. (Nu^2GC) ; 2015 ; 549755813888 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2015PASJ...67...61I/abstract
+47 ; Wang et al. ; 2015 ; 1000000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4070W/abstract
+48 ; Fattahi et al. (APOSTLE) ; 2016 ; 10077696000 ; Hydro ; TreePM ; https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..844F/abstract
+49 ; Kim, Park, L'Huillier & Hong (Horizon Run 4) ; 2015 ; 250047000000 ; Gravity ; AMR ; https://ui.adsabs.harvard.edu/abs/2015JKAS...48..213K/abstract
+50 ; Potter, Stadel & Teyssier ; 2017 ; 8000000000000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2017ComAC...4....2P/abstract
+51 ; Heitmann et al. (Q Continuum) ; 2017 ; 549755813888 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2019ApJS..244...17H/abstract
+52 ; Yu et al. (TianNu) ; 2017 ; 2641807540224 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.143Y/abstract
+53 ; Hopkins et al. (FIRE-2) ; 2018 ; 560000000 ; Hydro ; TreePM ; https://ui.adsabs.harvard.edu/abs/2018MNRAS.480..800H/abstract
+54 ; Pillepich et al. (IllustrisTNG) ; 2018 ; 15625000000 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P/abstract
+55 ; Heitmann et al. (Outer Rim) ; 2019 ; 1073741824000 ; Gravity ; TreePM ;  https://ui.adsabs.harvard.edu/abs/2019ApJS..245...16H/abstract
+56 ; Panamarev et al. ; 2019 ; 1000000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3279P/abstract
+57 ; Trebitsch et al. (Obelisk) ; 2020 ; 68719476736 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2020arXiv200204045T/abstract
+58 ; Cheng et al. (Cosmo-Pi) ; 2020 ; 4398046511104 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2020arXiv200303931C/abstract
