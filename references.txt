@@ -49,9 +49,9 @@
 48 ; Kim, Park, L'Huillier & Hong (Horizon Run 4) ; 2015 ; 250047000000 ; Gravity ; AMR ; https://ui.adsabs.harvard.edu/abs/2015JKAS...48..213K/abstract
 49 ; Ocvirk et al. (CoDa) ; 2016 ; 68719476736 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.1462O/abstract
 50 ; Fattahi et al. (APOSTLE) ; 2016 ; 10077696000 ; Hydro ; TreePM ; https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..844F/abstract
-51 ; Potter, Stadel & Teyssier ; 2017 ; 8000000000000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2017ComAC...4....2P/abstract
+51 ; Potter, Stadel & Teyssier (Euclid Flagship) ; 2017 ; 8000000000000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2017ComAC...4....2P/abstract
 52 ; Heitmann et al. (Q Continuum) ; 2017 ; 549755813888 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2019ApJS..244...17H/abstract
-53 ; Yu et al. (TianNu) ; 2017 ; 2641807540224 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.143Y/abstract
+53 ; Emberson et al. (TianNu) ; 2017 ; 2641807540224 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2017RAA....17...85E/abstract
 54 ; Pawlik et al. (Aurora) ; 2017 ; 2147483648 ; Hydro ; TreePM ;  https://ui.adsabs.harvard.edu/abs/2017MNRAS.466..960P/abstract
 55 ; Hopkins et al. (FIRE-2) ; 2018 ; 560000000 ; Hydro ; TreePM ; https://ui.adsabs.harvard.edu/abs/2018MNRAS.480..800H/abstract
 56 ; Pillepich et al. (IllustrisTNG) ; 2018 ; 15625000000 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2018MNRAS.475..648P/abstract
@@ -60,3 +60,7 @@
 59 ; Panamarev et al. ; 2019 ; 1000000 ; Gravity ; Direct ; https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3279P/abstract
 60 ; Trebitsch et al. (Obelisk) ; 2020 ; 68719476736 ; Hydro ; AMR ; https://ui.adsabs.harvard.edu/abs/2020arXiv200204045T/abstract
 61 ; Cheng et al. (Cosmo-Pi) ; 2020 ; 4398046511104 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2020arXiv200303931C/abstract
+62 ; Ishiyama et al. (Uchuu) ; 2020 ; 2097152000000 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.4210I/abstract
+63 ; Heitmann et al. (Last Journey) ; 2020 ; 1242990379008 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2021ApJS..252...19H/abstract
+64 ; Frontiere et al. (Farpoint) ; 2021 ; 1855425871872 ; Gravity ; TreePM ; https://ui.adsabs.harvard.edu/abs/2022ApJS..259...15F/abstract
+65 ; Wang et al. (Ultramarine) ; 2022 ; 2097152000000 ; Gravity ; VP3M ; https://ui.adsabs.harvard.edu/abs/2022arXiv220606313W/abstract
